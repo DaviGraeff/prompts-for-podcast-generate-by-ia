@@ -1,4 +1,6 @@
 <p align="center">
+
+## 💻 Tecnologias utilizadas no projeto
 <img 
     src="./assets/cover.png"
     width="300"
