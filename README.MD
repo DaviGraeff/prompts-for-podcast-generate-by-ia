@@ -1,5 +1,4 @@
 <p align="center">
-Projeto Podcast Gerado por I.A.s
 <img 
     src="./assets/cover.png"
     width="300"
