@@ -1,6 +1,7 @@
 <p align="center">
 
-## 💻 Tecnologias utilizadas no projeto
+Interface Rebelde: A aliança do design contra o império do bug
+
 <img 
     src="./assets/cover.png"
     width="300"
